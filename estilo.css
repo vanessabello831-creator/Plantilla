@@ -106,3 +106,21 @@ footer {
 .container a{
     color: rgb(255, 255, 255);
 }
+.Nempresa{
+            display: flex; gap:20%; align-items: center; 
+        }
+        img{
+            width: 100px;
+            height: 100px;
+            border-radius: 100%;
+        }
+       .diferente{
+        background: #463402; color: white; padding: 12px;width: 100%; display: flex; gap: 20%; position: fixed; top: 0; left: 0;
+       }
+       .separador{
+        padding: 60px;
+       }
+       .items{
+        display: flex;
+        gap: 100px;
+       }
