@@ -42,6 +42,19 @@ img{
     align-items: center;
 }
 
+#desarrollo{
+    scroll-margin-top: 100px;
+}
+
+#inicio{
+    scroll-margin-top: 100px;
+}
+
+#diseño{
+    scroll-margin-top: 100px;
+}
+
+
 nav ul { 
     display: flex;
     list-style: none;
