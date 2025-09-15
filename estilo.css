@@ -14,7 +14,7 @@ body {
      padding: 0 20px; 
 }
 
-header { 
+.diferente { 
     background: #cfb271; 
     color: rgb(0, 0, 0);
     padding: 1rem 0;
@@ -121,7 +121,7 @@ footer {
             object-fit: cover;
         }
        .diferente{
-        background: #4b4125; 
+        background: #42391f; 
         color: white; 
         padding: 1rem 0;
         width: 100%; 
