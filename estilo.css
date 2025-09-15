@@ -14,8 +14,8 @@ body {
      padding: 0 20px; 
 }
 
-.diferente { 
-    background: #a58e5c; 
+header { 
+    background: #866c4a;  
     color: rgb(0, 0, 0);
     padding: 1rem 0;
 }
@@ -77,7 +77,7 @@ article {
 }
 
 aside {
-    background: #584631; 
+    background: #775d3b; 
     padding: 20px; 
 }
 
@@ -121,7 +121,7 @@ footer {
             object-fit: cover;
         }
        .diferente{
-        background: #42391f; 
+        background: #3d301c; 
         color: white; 
         padding: 1rem 0;
         width: 100%; 
