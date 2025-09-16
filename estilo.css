@@ -21,8 +21,8 @@ header {
 }
 
 img{
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
     margin-bottom: 20px;
     object-fit: cover;
@@ -43,19 +43,19 @@ img{
 }
 
 #desarrollo{
-    scroll-margin-top: 300px;
+    scroll-margin-top: 600px;
 }
 
 #inicio{
-    scroll-margin-top: 300px;
+    scroll-margin-top: 600px;
 }
 
 #diseño{
-    scroll-margin-top: 300px;
+    scroll-margin-top: 600px;
 }
 
 #sobre-nosotros{
-    scroll-margin-top: 300px;
+    scroll-margin-top: 600px;
 }
 
 
