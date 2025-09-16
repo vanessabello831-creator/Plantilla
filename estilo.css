@@ -132,7 +132,8 @@ footer {
 }
 
 .separador {
-  padding: 60px;
+  height: 10px;
+  background: #3d301c;
 }
 
 .items {
@@ -197,4 +198,6 @@ footer {
     top: 0;
     z-index: 1000;
   }
+
+   
 }
